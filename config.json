@@ -1,0 +1,9 @@
+{
+    "name": "STWEmobileTheme",
+    "author": "Artur Misiewicz",
+    "version": "1.0.0",
+    "description": "Custom theme for STW Emobile",
+    "type": "theme",
+    "serviceProvider": "STWEmobileTheme\\Providers\\STWEmobileThemeServiceProvider"
+  }
+  
